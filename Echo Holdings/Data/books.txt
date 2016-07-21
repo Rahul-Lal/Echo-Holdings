@@ -1,0 +1,12 @@
+1001,"Windows® 10 : absolute beginner's guide","Alan Wright",9780789754561,005,24.99,1
+1002,"Windows® 10 : absolute beginner's guide","Alan Wright",9780789754561,005,24.99,1
+1003,"Business Strategy", "Jeremy Kourdi",9781846681240,658,0.00,2
+1004,"A commitment to critical thinking","Carl B. Smith",9940419120000,370,0.00,2
+1005,"Currency options and exchange rate economics ","Zhaohui Chen",9810226195,330,31.69,1
+1006,"Jane Eyre","Charlotte Bronte",8101533020,,12.00,1
+1007,"Database Systems A Pragmatic Approach","Elvis C Foster",,003,46.00,3
+1008,"Inferno: A Novel","Dan Brown",0385537858,,8.99,1
+1009,"Inferno: A Nobel","Dan Brown",0385537858,,8.99,1
+1010,"Inferno: A Nobel","Dan Brown",0385537858,,8.99,2
+1012,"Steve Jobs","Steve Goldsworthy",1616906707,921,31.50,2
+1013,"Steve Jobs","Steve Goldsworthy",1616906707,921,31.50,1
